@@ -1,0 +1,18 @@
+.body {
+    height: 100vh;
+    background-color: aliceblue;
+}
+
+.bg {
+    background-image: url('./image.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.context {
+    font-size: 2rem;
+    padding: 3rem;
+    text-align: center;
+    font-family: 'Do Hyeon', sans-serif;
+}
