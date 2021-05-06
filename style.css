@@ -1,14 +1,14 @@
 .body {
     height: 100vh;
-    background-color: aliceblue;
+    background-color: black;
 }
 
 .bg {
-    background-image: url('./image.png');
+    background-image: url('./fox.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border: 5px solid skyblue;
+    border: 5px solid black;
 }
 
 .context {
