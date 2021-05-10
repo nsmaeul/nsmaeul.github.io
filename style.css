@@ -1,14 +1,14 @@
 .body {
     height: 100vh;
-    background-color: black;
+    background-color: white;
 }
 
 .bg {
-    background-image: url('./fox.jpg');
+    background-image: url('./image.PNG');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    border: 5px solid black;
+    /* border: 5px solid white; */
 }
 
 .context {
